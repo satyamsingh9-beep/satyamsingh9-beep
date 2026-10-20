@@ -5,7 +5,7 @@
 ### 🚀 CSE (AI) Student | AI & ML Enthusiast | Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamsingh9-beep&style=flat-square&color=blue" alt="Profile Views" />
+ 
   <a href="https://www.linkedin.com/in/satyam-singh-5a851126a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

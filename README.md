@@ -29,6 +29,9 @@ I’m a passionate developer who enjoys building practical, user-focused solutio
 - HTML / CSS
 - Git and GitHub
 - Problem solving and debugging
+- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamsingh9-beep&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
 
 ## Current Focus
 

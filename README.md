@@ -42,4 +42,7 @@ I’m a passionate developer who enjoys building practical, user-focused solutio
 ## Profile Snapshot
 
 > “Coding is not just about solving problems — it’s about creating value through thoughtful design and execution.”
-
+### 📈 GitHub Activity & Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamsingh9-beep&theme=radical" alt="GitHub Profile Summary Card" />
+</p>

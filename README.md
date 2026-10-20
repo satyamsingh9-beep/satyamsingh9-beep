@@ -51,6 +51,4 @@ I’m a passionate developer who enjoys building practical, user-focused solutio
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamsingh9-beep&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
+

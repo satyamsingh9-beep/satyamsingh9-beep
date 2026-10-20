@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I’m Satyam Singh 👋
 
-<!--
-**satyamsingh9-beep/satyamsingh9-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer who enjoys building practical, user-focused solutions and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently exploring software development, problem-solving, and product-focused engineering.
+- 🌱 I’m learning new tools, frameworks, and best practices to improve my skills.
+- 👯 I’m open to collaboration on interesting projects and learning opportunities.
+- 💬 Ask me about programming, web development, and building useful software.
+- 📫 You can reach me through GitHub or other professional channels.
+- ⚡ Fun fact: I enjoy turning ideas into working projects and learning by building.
+
+## Skills
+
+- JavaScript / TypeScript
+- React / Node.js
+- HTML / CSS
+- Git and GitHub
+- Problem solving and debugging
+
+## Current Focus
+
+- Building clean, maintainable projects
+- Improving backend and frontend development skills
+- Learning modern tools and workflows
+
+## Connect
+
+- GitHub: [@satyamsingh9-beep](https://github.com/satyamsingh9-beep)
+
+## Profile Snapshot
+
+> “Coding is not just about solving problems — it’s about creating value through thoughtful design and execution.”
+

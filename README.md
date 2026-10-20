@@ -1,6 +1,33 @@
+<div align="center">
+
+# 👋 Hi there, I'm Satyam Singh!
+
+### 🚀 CSE (AI) Student | AI & ML Enthusiast | Developer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyamsingh9-beep&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/satyam-singh-5a851126a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/satyaa__rider">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+* 🎓 I am a Computer Science and Engineering (Artificial Intelligence) student at **Supaul College of Engineering, Bihar**.
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and backend development.
+* 💻 Constantly building real-world projects and sharpening problem-solving skills.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
-<p>
+<p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -23,46 +50,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-# Hi, I’m Satyam Singh 👋
+---
 
-I’m a passionate developer who enjoys building practical, user-focused solutions and continuously learning new technologies.
+### 📊 GitHub Stats & Metrics
 
-## About Me
-
-- 🔭 I’m currently exploring software development, problem-solving, and product-focused engineering.
-- 🌱 I’m learning new tools, frameworks, and best practices to improve my skills.
-- 👯 I’m open to collaboration on interesting projects and learning opportunities.
-- 💬 Ask me about programming, web development, and building useful software.
-- 📫 You can reach me through GitHub or other professional channels.
-- ⚡ Fun fact: I enjoy turning ideas into working projects and learning by building.
-
-## Skills
-
-- JavaScript / TypeScript
-- React / Node.js
-- HTML / CSS
-- Git and GitHub
-- Problem solving and debugging
-
-
-## Current Focus
-
-- Building clean, maintainable projects
-- Improving backend and frontend development skills
-- Learning modern tools and workflows
-
-## Connect
-
-- GitHub: [@satyamsingh9-beep](https://github.com/satyamsingh9-beep)
-
-## Profile Snapshot
-
-> “Coding is not just about solving problems — it’s about creating value through thoughtful design and execution.”
-### 📈 GitHub Activity & Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamsingh9-beep&theme=radical" alt="GitHub Profile Summary Card" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsingh9-beep&show_icons=true&theme=radical&hide_border=true" alt="Satyam's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh9-beep&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsingh9-beep&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 Current Focus & Goals
+* 🚀 Building robust and scalable machine learning models.
+* 📈 Practicing advanced database queries and system design concepts.
+* 🤝 Contributing to open-source and collaborative tech projects.

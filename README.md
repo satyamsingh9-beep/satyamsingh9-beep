@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+
 ### 🛠️ Tech Stack & Tools
 
 <p>
@@ -48,4 +46,7 @@ I’m a passionate developer who enjoys building practical, user-focused solutio
 ### 📈 GitHub Activity & Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamsingh9-beep&theme=radical" alt="GitHub Profile Summary Card" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
